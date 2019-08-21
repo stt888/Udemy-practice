@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "Development",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "Marketing",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 3,
+        "title": "business",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/3627484-07775920cf3a715f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 4,
+        "title": "IT & Software",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/4924151-8f1057c60896d8d6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "list": [
+      {
+        "id": 1,
+        "title": "Complete Python Bootcamp",
+        "desc": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3....",
+        "imgUrl": "https://i.udemycdn.com/course/480x270/567828_67d0.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Artificial Intelligence: Reinforcement Learning in Python",
+        "desc": "When people talk about artificial intelligence, they usually donâ€™t mean supervised and unsupervised machine learning. These tasks are pretty trivial compared to what we think of AIs doing - playing chess and Go, driving cars, and beating video games at a superhuman level....",
+        "imgUrl": "https://i.udemycdn.com/course/480x270/625204_436a_2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Data Science: Deep Learning in Python",
+        "desc": "The MOST in-depth look at neural network theory, and how to code one with pure Python and TensorflowWe are also going to look at the GloVe method, which also finds word vectors, but uses a technique called matrix factorization, which is a popular algorithm for recommender systems....",
+        "imgUrl": "https://i.udemycdn.com/course/480x270/533682_c10c_4.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Complete C# Unity Developer 2D",
+        "desc": "Game development & design. Learn Unity 2018 in C#. Your first 7 2D Unity games for web, Mac & PC. Includes Tilemap....",
+        "imgUrl": "https://i.udemycdn.com/course/480x270/258316_55e9_8.jpg"
+      }
+    ],    
+    "instructorList": [
+      {
+        "id": 1,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/9685726_67e7_4.jpg",
+        "name": "Jose Portilla",
+        "content": "Python, Data Analysis"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/4466306_6fd8_3.jpg",
+        "name": "Colt Steele",
+        "content": "Web Development, MySQL"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/31926668_94e7_6.jpg",
+        "name": "Maximilian Schwarzmuller",
+        "content": "React, React Hooks"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/5487312_0554.jpg",
+        "name": "Stephen Grider",
+        "content": "React, Redux Framework"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/31334738_a13c_2.jpg",
+        "name": "Angela Yu",
+        "content": "Swift, Xcode"
+      },
+      {
+        "id": 6,
+        "imgUrl": "https://i.udemycdn.com/user/75x75/599932_71aa_5.jpg",
+        "name": "Tim Buchalka",
+        "content": "Java, Python"
+      }
+    ]
+  }
+}
