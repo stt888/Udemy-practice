@@ -15,13 +15,13 @@ function App() {
     <Provider store={store}>
       <Fragment>
         <GlobalStyle />
-        <BrowserRouter>
+        <BrowserRouter basename="/Udemy-practice">
           <Header/>
           <Switch>
-            <Route path = '/Udemy-practice/' exact component = {Home}/>
-            <Route path = '/Udemy-practice/login' exact component = {Login}/>
-            <Route path = '/Udemy-practice/register' exact component = {Register}/>
-            <Route path = '/Udemy-practice/detail' exact component = {Detail}/>  
+            <Route path = '/' exact component = {Home}/>
+            <Route path = '/login' exact component = {Login}/>
+            <Route path = '/register' exact component = {Register}/>
+            <Route path = '/detail' exact component = {Detail}/>  
           </Switch>      
         </BrowserRouter>
       </Fragment>
