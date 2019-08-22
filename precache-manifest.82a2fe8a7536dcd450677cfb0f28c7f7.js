@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abae7e692a2dc8cedd9c93668ddfd73c",
+    "revision": "0ecb87aa7c9d2f60cbb7db60099dacd1",
     "url": "/Udemy-practice/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js"
   },
   {
-    "revision": "7d532f08bb57f4883b34",
-    "url": "/Udemy-practice/static/js/main.72f6ae77.chunk.js"
+    "revision": "377f73ae1e45f3a74965",
+    "url": "/Udemy-practice/static/js/main.dcdf1fb9.chunk.js"
   },
   {
     "revision": "99c946b5966329b27d01",
