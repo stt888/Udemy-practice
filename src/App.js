@@ -18,10 +18,10 @@ function App() {
         <BrowserRouter>
           <Header/>
           <Switch>
-            <Route path = '/' component = {Home}/>
-            <Route path = '/login' component = {Login}/>
-            <Route path = '/register' component = {Register}/>
-            <Route path = '/detail' component = {Detail}/>  
+            <Route path = '/' exact component = {Home}/>
+            <Route path = '/login' exact component = {Login}/>
+            <Route path = '/register' exact component = {Register}/>
+            <Route path = '/detail' exact component = {Detail}/>  
           </Switch>      
         </BrowserRouter>
       </Fragment>

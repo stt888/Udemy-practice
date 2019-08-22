@@ -61,12 +61,12 @@ class Header extends Component {
         return (
             <HeaderWrapper>
 
-                <Link to="/home">
+                <Link to="/">
                     <Logo />
                 </Link>
 
                 <Nav>
-                    <Link to="/home"><NavItem className='left active' > Home</NavItem></Link>
+                    <Link to="/"><NavItem className='left active' > Home</NavItem></Link>
                     <a href='https://www.udemy.com/mobile/'><NavItem className='left' > Download-App</NavItem></a>
 
                     {loginStatus? <NavItem className='right' onClick={()=>changeLogin(loginStatus)}> Logout</NavItem>:
