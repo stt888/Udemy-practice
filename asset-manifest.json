@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/udemy-practice/static/js/main.72f6ae77.chunk.js",
-    "main.js.map": "/udemy-practice/static/js/main.72f6ae77.chunk.js.map",
-    "runtime~main.js": "/udemy-practice/static/js/runtime~main.9e9660ce.js",
-    "runtime~main.js.map": "/udemy-practice/static/js/runtime~main.9e9660ce.js.map",
-    "static/js/2.a2bfdfde.chunk.js": "/udemy-practice/static/js/2.a2bfdfde.chunk.js",
-    "static/js/2.a2bfdfde.chunk.js.map": "/udemy-practice/static/js/2.a2bfdfde.chunk.js.map",
-    "static/js/3.f0a4a5ef.chunk.js": "/udemy-practice/static/js/3.f0a4a5ef.chunk.js",
-    "static/js/3.f0a4a5ef.chunk.js.map": "/udemy-practice/static/js/3.f0a4a5ef.chunk.js.map",
-    "index.html": "/udemy-practice/index.html",
-    "precache-manifest.53e7446319ff1f61acbdf6dae2778512.js": "/udemy-practice/precache-manifest.53e7446319ff1f61acbdf6dae2778512.js",
-    "service-worker.js": "/udemy-practice/service-worker.js",
-    "static/media/banner.jpg": "/udemy-practice/static/media/banner.5578eb98.jpg",
-    "static/media/logo-coral.png": "/udemy-practice/static/media/logo-coral.41d449ae.png"
+    "main.js": "/Udemy-practice/static/js/main.72f6ae77.chunk.js",
+    "main.js.map": "/Udemy-practice/static/js/main.72f6ae77.chunk.js.map",
+    "runtime~main.js": "/Udemy-practice/static/js/runtime~main.8a324873.js",
+    "runtime~main.js.map": "/Udemy-practice/static/js/runtime~main.8a324873.js.map",
+    "static/js/2.8980f90f.chunk.js": "/Udemy-practice/static/js/2.8980f90f.chunk.js",
+    "static/js/2.8980f90f.chunk.js.map": "/Udemy-practice/static/js/2.8980f90f.chunk.js.map",
+    "static/js/3.f0a4a5ef.chunk.js": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js",
+    "static/js/3.f0a4a5ef.chunk.js.map": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js.map",
+    "index.html": "/Udemy-practice/index.html",
+    "precache-manifest.01f7a34c7459626c7a97fd109d0b46e6.js": "/Udemy-practice/precache-manifest.01f7a34c7459626c7a97fd109d0b46e6.js",
+    "service-worker.js": "/Udemy-practice/service-worker.js",
+    "static/media/banner.jpg": "/Udemy-practice/static/media/banner.5578eb98.jpg",
+    "static/media/logo-coral.png": "/Udemy-practice/static/media/logo-coral.41d449ae.png"
   }
 }
