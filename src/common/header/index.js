@@ -61,16 +61,16 @@ class Header extends Component {
         return (
             <HeaderWrapper>
 
-                <Link to="/">
+                <Link to="/Udemy-practice/">
                     <Logo />
                 </Link>
 
                 <Nav>
-                    <Link to="/"><NavItem className='left active' > Home</NavItem></Link>
+                    <Link to="/Udemy-practice/"><NavItem className='left active' > Home</NavItem></Link>
                     <a href='https://www.udemy.com/mobile/'><NavItem className='left' > Download-App</NavItem></a>
 
                     {loginStatus? <NavItem className='right' onClick={()=>changeLogin(loginStatus)}> Logout</NavItem>:
-                    <Link to="/login">
+                    <Link to="/Udemy-practice/login">
                         <NavItem className='right' > Login</NavItem>
                     </Link>
                     }
@@ -99,7 +99,7 @@ class Header extends Component {
                         </Button>
                     </a>
                     {loginStatus? <Button className='reg' onClick={()=>changeLogin(loginStatus)}>Register</Button>:
-                    <Link to="/register">
+                    <Link to="/Udemy-practice/register">
                         <Button className='reg'>Register</Button>
                     </Link>
                     }                    
