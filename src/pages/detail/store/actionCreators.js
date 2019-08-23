@@ -12,7 +12,7 @@ export const getDetail = (pathId) => {
         axios.get('/api/detailData.json?id='+pathId)
             .then((res) => {
                 const result = res.data.data;
-                console.log(result);
+                // console.log(result);
                 dispatch(changeDetail(result.title, result.content));
             })
             .catch(error => console.log(error.message))

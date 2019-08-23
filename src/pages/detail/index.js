@@ -14,8 +14,6 @@ class Detail extends PureComponent {
     return (
       <DetailWrapper>
         <Title>{title}</Title>
-        {/* <video style={{'overflow': 'hidden'}} tabindex="-1" src="https://a2.udemycdn.com/2018-03-08_20-09-30-1365492dea1831a772c3ed1dd9cf3b66/WebHD_720p.mp4?nva=20190820193717&amp;token=0d2b001d832d5c4b415b1"></video> */}
-
         <Content dangerouslySetInnerHTML={{__html: content}}></Content>
       </DetailWrapper>
     );

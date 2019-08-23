@@ -21,7 +21,7 @@ function App() {
             <Route path = '/' exact component = {Home}/>
             <Route path = '/login' exact component = {Login}/>
             <Route path = '/register' exact component = {Register}/>
-            <Route path = '/detail' exact component = {Detail}/>  
+            <Route path = '/detail' component = {Detail}/>  
           </Switch>      
         </BrowserRouter>
       </Fragment>
