@@ -61,16 +61,16 @@ class Header extends Component {
         return (
             <HeaderWrapper>
 
-                <Link to="/">
+                <Link to={`${process.env.PUBLIC_URL}/`}>
                     <Logo />
                 </Link>
 
                 <Nav>
-                    <Link to="/"><NavItem className='left active' > Home</NavItem></Link>
+                    <Link to={`${process.env.PUBLIC_URL}/`}><NavItem className='left active' > Home</NavItem></Link>
                     <a href='https://www.udemy.com/mobile/'><NavItem className='left' > Download-App</NavItem></a>
 
                     {loginStatus? <NavItem className='right' onClick={()=>changeLogin(loginStatus)}> Logout</NavItem>:
-                    <Link to="/login">
+                    <Link to={`${process.env.PUBLIC_URL}/login`}>
                         <NavItem className='right' > Login</NavItem>
                     </Link>
                     }
@@ -99,7 +99,7 @@ class Header extends Component {
                         </Button>
                     </a>
                     {loginStatus? <Button className='reg' onClick={()=>changeLogin(loginStatus)}>Register</Button>:
-                    <Link to="/register">
+                    <Link to={`${process.env.PUBLIC_URL}/register`}>
                         <Button className='reg'>Register</Button>
                     </Link>
                     }                    
