@@ -20,8 +20,8 @@ function App() {
           <Header/>
           <Switch>
             <Route path = {`${process.env.PUBLIC_URL}/`} exact component = {Home}/>
-            <Route path = {`${process.env.PUBLIC_URL}/login`} component = {Login}/>
-            <Route path = {`${process.env.PUBLIC_URL}/register`} component = {Register}/>
+            <Route path = {`${process.env.PUBLIC_URL}/login`} exact component = {Login}/>
+            <Route path = {`${process.env.PUBLIC_URL}/register`} exact component = {Register}/>
             <Route path = {`${process.env.PUBLIC_URL}/detail`} component = {Detail}/>  
           </Switch>      
         </BrowserRouter>

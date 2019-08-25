@@ -60,7 +60,6 @@ class Header extends Component {
         // console.log(loginStatus);
         return (
             <HeaderWrapper>
-
                 <Link to={`${process.env.PUBLIC_URL}/`}>
                     <Logo />
                 </Link>
