@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Udemy-practice/precache-manifest.0b563be38891d1a5c93d7e721ec87a16.js"
+  "/Udemy-practice/precache-manifest.69f09209452af88ca3465e97ad490c6b.js"
 );
 
 self.addEventListener('message', (event) => {
