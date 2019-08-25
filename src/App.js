@@ -15,11 +15,11 @@ function App() {
     <Provider store={store}>
       <Fragment>
         <GlobalStyle />
-        <BrowserRouter basename="/Udemy-practice">
+        <BrowserRouter basename={"/Udemy-practice"}>
         {/* <BrowserRouter > */}
           <Header/>
           <Switch>
-            <Route path = {`${process.env.PUBLIC_URL}/`}  exact component = {Home}/>
+            <Route path = {`${process.env.PUBLIC_URL}/`} exact component = {Home}/>
             <Route path = {`${process.env.PUBLIC_URL}/login`} component = {Login}/>
             <Route path = {`${process.env.PUBLIC_URL}/register`} component = {Register}/>
             <Route path = {`${process.env.PUBLIC_URL}/detail`} component = {Detail}/>  
