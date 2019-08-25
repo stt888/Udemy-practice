@@ -15,7 +15,7 @@ function App() {
     <Provider store={store}>
       <Fragment>
         <GlobalStyle />
-        <BrowserRouter basename={"/Udemy-practice"}>
+        <BrowserRouter basename={"/"}>
         {/* <BrowserRouter > */}
           <Header/>
           <Switch>
