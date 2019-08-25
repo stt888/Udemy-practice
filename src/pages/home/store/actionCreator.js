@@ -17,7 +17,7 @@ const addHomeData = (list, nextPage) => ({
 
 export const getHomeInfo = () => {
     return dispatch => {
-        axios.get('/api/homeList.json')
+        axios.get(process.env.PUBLIC_URL+'/api/homeList.json')
             .then((response) => {
                 const res = response.data.data;
                 dispatch(changHomeData(res));
@@ -28,7 +28,7 @@ export const getHomeInfo = () => {
 
 export const getMoreList = (page) => {
     return dispatch => {
-        axios.get('/api/addHomeList.json?page='+page)
+        axios.get(process.env.PUBLIC_URL+'/api/addHomeList.json?page='+page)
             .then((res) => {
                 const list = res.data.data;
                 console.log(list);

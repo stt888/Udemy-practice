@@ -18,7 +18,7 @@ export const changeList = (data) => ({
 })
 export const getList = () => {
     return dispatch => {
-        axios.get('/api/headerList.json')
+        axios.get(process.env.PUBLIC_URL+'/api/headerList.json')
         .then(res=>{dispatch(changeList(res.data.data))})
         .catch(error => console.log(error.message))
     }
