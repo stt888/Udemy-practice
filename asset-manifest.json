@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Udemy-practice/static/js/main.95e86756.chunk.js",
-    "main.js.map": "/Udemy-practice/static/js/main.95e86756.chunk.js.map",
-    "runtime~main.js": "/Udemy-practice/static/js/runtime~main.8a324873.js",
-    "runtime~main.js.map": "/Udemy-practice/static/js/runtime~main.8a324873.js.map",
-    "static/js/2.8980f90f.chunk.js": "/Udemy-practice/static/js/2.8980f90f.chunk.js",
-    "static/js/2.8980f90f.chunk.js.map": "/Udemy-practice/static/js/2.8980f90f.chunk.js.map",
-    "static/js/3.f0a4a5ef.chunk.js": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js",
-    "static/js/3.f0a4a5ef.chunk.js.map": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js.map",
-    "index.html": "/Udemy-practice/index.html",
-    "precache-manifest.4f1d96f8dfdd9f804814e0928028332d.js": "/Udemy-practice/precache-manifest.4f1d96f8dfdd9f804814e0928028332d.js",
-    "service-worker.js": "/Udemy-practice/service-worker.js",
-    "static/media/banner.jpg": "/Udemy-practice/static/media/banner.5578eb98.jpg",
-    "static/media/logo-coral.png": "/Udemy-practice/static/media/logo-coral.41d449ae.png"
+    "main.js": "/static/js/main.a759ef02.chunk.js",
+    "main.js.map": "/static/js/main.a759ef02.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.962a3fa0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.962a3fa0.js.map",
+    "static/js/2.0cbcd32b.chunk.js": "/static/js/2.0cbcd32b.chunk.js",
+    "static/js/2.0cbcd32b.chunk.js.map": "/static/js/2.0cbcd32b.chunk.js.map",
+    "static/js/3.f0a4a5ef.chunk.js": "/static/js/3.f0a4a5ef.chunk.js",
+    "static/js/3.f0a4a5ef.chunk.js.map": "/static/js/3.f0a4a5ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c247fcc89701f419813e3417a8e4ef9.js": "/precache-manifest.6c247fcc89701f419813e3417a8e4ef9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/banner.jpg": "/static/media/banner.5578eb98.jpg",
+    "static/media/logo-coral.png": "/static/media/logo-coral.41d449ae.png"
   }
 }
