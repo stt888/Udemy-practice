@@ -15,7 +15,7 @@ function App() {
     <Provider store={store}>
       <Fragment>
         <GlobalStyle />
-        <BrowserRouter basename={"/"}>
+        <BrowserRouter >
         {/* <BrowserRouter > */}
           <Header/>
           <Switch>
