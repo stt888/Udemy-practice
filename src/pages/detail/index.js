@@ -2,7 +2,7 @@ import React, { PureComponent } from "react";
 import { DetailWrapper, Title, Content } from "./style";
 import { connect } from "react-redux";
 import {actionCreators} from './store';
-import {withRouter} from 'react-router-dom';
+// import {withRouter} from 'react-router-dom';
 
 class Detail extends PureComponent {
   render() {
@@ -39,7 +39,11 @@ const mapDispatch = (dispatch) => ({
     }
 });
 
+// export default connect(
+//     mapState,
+//     mapDispatch
+// )(withRouter(Detail));
 export default connect(
     mapState,
     mapDispatch
-)(withRouter(Detail));
+)(Detail);
