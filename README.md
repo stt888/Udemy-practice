@@ -12,3 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### website https://stt888.github.io/Udemy-practice/
+
+The project set local api data to mock backend data.
+Deploy a React app with subdirectory on GitHub Pages.
