@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.js": "/Udemy-practice/static/js/main.11bf2238.chunk.js",
-    "main.js.map": "/Udemy-practice/static/js/main.11bf2238.chunk.js.map",
-    "runtime~main.js": "/Udemy-practice/static/js/runtime~main.8a324873.js",
-    "runtime~main.js.map": "/Udemy-practice/static/js/runtime~main.8a324873.js.map",
-    "static/js/2.8980f90f.chunk.js": "/Udemy-practice/static/js/2.8980f90f.chunk.js",
-    "static/js/2.8980f90f.chunk.js.map": "/Udemy-practice/static/js/2.8980f90f.chunk.js.map",
-    "static/js/3.f0a4a5ef.chunk.js": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js",
-    "static/js/3.f0a4a5ef.chunk.js.map": "/Udemy-practice/static/js/3.f0a4a5ef.chunk.js.map",
+    "main.js": "/Udemy-practice/static/js/main.8b679d28.chunk.js",
+    "main.js.map": "/Udemy-practice/static/js/main.8b679d28.chunk.js.map",
+    "runtime~main.js": "/Udemy-practice/static/js/runtime~main.bf70b216.js",
+    "runtime~main.js.map": "/Udemy-practice/static/js/runtime~main.bf70b216.js.map",
+    "static/js/2.6816c83d.chunk.js": "/Udemy-practice/static/js/2.6816c83d.chunk.js",
+    "static/js/2.6816c83d.chunk.js.map": "/Udemy-practice/static/js/2.6816c83d.chunk.js.map",
     "index.html": "/Udemy-practice/index.html",
-    "precache-manifest.69f09209452af88ca3465e97ad490c6b.js": "/Udemy-practice/precache-manifest.69f09209452af88ca3465e97ad490c6b.js",
+    "precache-manifest.41740072618c269eaee0ecd445e02243.js": "/Udemy-practice/precache-manifest.41740072618c269eaee0ecd445e02243.js",
     "service-worker.js": "/Udemy-practice/service-worker.js",
     "static/media/banner.jpg": "/Udemy-practice/static/media/banner.5578eb98.jpg",
     "static/media/logo-coral.png": "/Udemy-practice/static/media/logo-coral.41d449ae.png"
