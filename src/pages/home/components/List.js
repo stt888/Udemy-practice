@@ -11,7 +11,8 @@ import {Link} from 'react-router-dom';
         return (
             <div>
                 {list.map((item, index)=>(
-                    <Link to={'/detail/' + item.get('id')} key={index}>
+                    // {`${process.env.PUBLIC_URL}/register`}
+                    <Link to={`${process.env.PUBLIC_URL}/detail/${item.get('id')}`} key={index}>
                         <ListItem>
                             <img 
                             className='pic'
