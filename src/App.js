@@ -5,7 +5,8 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Header from './common/header';
 import store from './store';
 import Home from './pages/home';
-import Detail from './pages/detail/loadable';
+// import Detail from './pages/detail/loadable';
+import Detail from './pages/detail';
 import Login from './pages/login';
 import Register from './pages/register';
 
